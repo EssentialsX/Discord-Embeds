@@ -22,7 +22,7 @@
       },
       {
         "name": "EssentialsX Spawn",
-        "value": "**EssentialsX Spawn** allows you to set up custom spawnpoints on your server. *You'll also need to install Vault to set different spawnpoints for each permissions group - see `?vault`*"
+        "value": "**EssentialsX Spawn** allows you to set up custom spawnpoints on your server. *You'll also need to install Vault to set different spawnpoints for each permissions group - see `?vault`.*"
       },
       {
         "name": "EssentialsX AntiBuild",
