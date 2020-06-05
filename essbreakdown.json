@@ -1,0 +1,45 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "EssentialsX has several modules for certain features. You don't need to install all of them - read on to see what each one does.",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX: module breakdown",
+      "url": "https://essentialsx.cf/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "EssentialsX",
+        "value": "**EssentialsX** is the main jar. This jar contains most features like homes, warps, kits and economy, as well as signs and most of the plugin's commands. You'll need this jar to use EssentialsX."
+      },
+      {
+        "name": "EssentialsX Chat",
+        "value": "**EssentialsX Chat** enables custom chat formatting, allowing you to customise your chat's appearance based on their groups. *You'll also need to install Vault to use prefixes and suffixes from your permissions plugin - see `?vault`.*"
+      },
+      {
+        "name": "EssentialsX Spawn",
+        "value": "**EssentialsX Spawn** allows you to set up custom spawnpoints on your server. *You'll also need to install Vault to set different spawnpoints for each permissions group - see `?vault`*"
+      },
+      {
+        "name": "EssentialsX AntiBuild",
+        "value": "**EssentialsX AntiBuild** adds a permission-based building whitelist system, allowing you to limit which blocks and items players can use, as well as limiting certain players from building at all."
+      },
+      {
+        "name": "EssentialsX Protect",
+        "value": "**EssentialsX Protect** allows you to disable certain gameplay features, including weather, mob griefing and more."
+      },
+      {
+        "name": "EssentialsX GeoIP",
+        "value": "**EssentialsX GeoIP** adds geographical IP lookup to EssentialsX, based on the MaxMind GeoLite2 database."
+      },
+      {
+        "name": "EssentialsX XMPP",
+        "value": "**EssentialsX XMPP** provides integration with XMPP chat services. If you don't know what that means, you don't need to install this."
+      }
+    ]
+  }
+}
