@@ -1,0 +1,25 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "EssentialsX provides over 130 commands for Minecraft servers of any size and scale.",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX",
+      "url": "https://essentialsx.cf/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "Downloads",
+        "value": "You can download the latest dev builds [here](https://essentialsx.cf/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.15.2."
+      },
+      {
+        "name": "Useful links",
+        "value": "• Wiki: <https://essentialsx.cf/wiki/Home.html>\n• Commands list: <https://essinfo.xeya.me/commands.html>\n• Permissions list: <https://essinfo.xeya.me/permissions.html>\n"
+      }
+    ]
+  }
+}
