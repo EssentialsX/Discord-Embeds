@@ -1,0 +1,53 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "Chester has a few useful tags and commands you can run in the EssentialsX support channel:",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX: support channel commands",
+      "url": "https://essentialsx.cf/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "?ess",
+        "value": "Shows information about EssentialsX as well as useful links."
+      },
+      {
+        "name": "?breakdown",
+        "value": "Explains what each EssentialsX module does."
+      },
+      {
+        "name": "?esshelp",
+        "value": "Shows how to get support with EssentialsX."
+      },
+      {
+        "name": "?etl",
+        "value": "Explains how to change EssentialsX's default language and customise the messages files."
+      },
+      {
+        "name": "??chathelp",
+        "value": "Explains how to set up chat formatting with EssentialsX Chat and Vault."
+      },
+      {
+        "name": "?esssupport",
+        "value": "Lists all EssentialsX support commands."
+      },
+      {
+        "name": "!essc <query>",
+        "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `!essc home` shows all commands related to homes.*"
+      },
+      {
+        "name": "!essp <query>",
+        "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `!essp nick` finds all permissions related to nicknames.*"
+      },
+      {
+        "name": "!itemdb <query>",
+        "value": "Searches **items.json** with the given query.\n*Example: `!itemdb dolphin` finds all items matching \"dolphin\".*"
+      }
+    ]
+  }
+}
