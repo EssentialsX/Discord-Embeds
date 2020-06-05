@@ -1,0 +1,29 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "Follow the steps below to provide us with enough information to help:",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX: getting help",
+      "url": "https://essentialsx.cf/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "Plugin and server versions",
+        "value": "Run `/ess version` either in your console or in-game, then copy and paste the full output of the command or take a screenshot and include it in your support request."
+      },
+      {
+        "name": "Server logs and config files",
+        "value": "Don't upload files to Discord! We can't easily open and check these files.\n\nInstead, you should upload the `logs/latest.log` and `plugins/Essentials/config.yml` files to a paste service (like [Gist](https://gist.github.com) or [Hastebin](https://hasteb.in)), then post the link here. \nIf you're having trouble with kits, you should also include `kits.yml`."
+      },
+      {
+        "name": "Template",
+        "value": "Copy and paste the following template when making your support request:\n```markdown\nStartup log: <link>\nEssentialsX config: <link>\n\n`/ess version` output:\n<...>\n```"
+      }
+    ]
+  }
+}
