@@ -7,17 +7,17 @@
     },
     "author": {
       "name": "EssentialsX: translations and custom messages",
-      "url": "https://essentialsx.cf/wiki/Locale.html",
+      "url": "https://essentialsx.net/wiki/Locale.html",
       "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
     },
     "fields": [
       {
         "name": "Translations",
-        "value": "EssentialsX comes with support for several languages built-in. For more information about changing the EssentialsX language, [click here](https://essentialsx.cf/wiki/Locale.html#switching-language)."
+        "value": "EssentialsX comes with support for several languages built-in. For more information about changing the EssentialsX language, [click here](https://essentialsx.net/wiki/Locale.html#switching-language)."
       },
       {
         "name": "Custom Messages",
-        "value": "You can also customise EssentialsX's messages to your liking, from changing colours to editing nearly every message in the plugin. For more information, [click here](https://essentialsx.cf/wiki/Locale.html#customising-messages)."
+        "value": "You can also customise EssentialsX's messages to your liking, from changing colours to editing nearly every message in the plugin. For more information, [click here](https://essentialsx.net/wiki/Locale.html#customising-messages)."
       }
     ]
   }
