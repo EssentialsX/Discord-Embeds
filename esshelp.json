@@ -18,7 +18,7 @@
       },
       {
         "name": "Server logs and config files",
-        "value": "Don't upload files to Discord! We can't easily open and check these files.\n\nInstead, you should upload the `logs/latest.log` and `plugins/Essentials/config.yml` files to a paste service (like [Gist](https://gist.github.com) or [Hastebin](https://hasteb.in)), then post the link here. \nIf you're having trouble with kits, you should also include `kits.yml`."
+        "value": "Don't upload files to Discord! We can't easily open and check these files.\n\nInstead, you should upload the `logs/latest.log` and `plugins/Essentials/config.yml` files to a paste service (like [Gist](https://gist.github.com) or [paste.gg](https://paste.gg)), then post the link here. \nIf you're having trouble with kits, you should also include `kits.yml`."
       },
       {
         "name": "Template",
