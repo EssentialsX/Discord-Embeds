@@ -37,6 +37,10 @@
         "value": "**EssentialsX GeoIP** adds geographical IP lookup to EssentialsX, based on the MaxMind GeoLite2 database."
       },
       {
+        "name": "EssentialsX Discord",
+        "value": "**EssentialsX Discord** brings a simple, lightweight, easy-to-use, and bloat-free bridge between Discord and Minecraft."
+      },
+      {
         "name": "EssentialsX XMPP",
         "value": "**EssentialsX XMPP** provides integration with XMPP chat services. If you don't know what that means, you don't need to install this."
       }
