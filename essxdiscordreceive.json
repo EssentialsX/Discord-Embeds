@@ -1,0 +1,9 @@
+{
+  "embed": {
+    "title": "EssentialsX Discord to Minecraft Permissions",
+    "description": "EssentialsX Discord requires you explictly give players permissions to receive messages from discord.\n\nTo give players the ability to see messages from a given Discord channel, give your players `essentials.discord.receive.<channel name>`. Replace `<channel name>` with the channel name used in the `channels` of your config.\n\nFor example, given the following channels section: ```yml\nchannels:\n  primary: 390943808948535297\n  staff: 606394319229812747```You would give players `essentials.discord.receive.primary` to receive messages from the `primary` channel or `essentials.discord.receive.staff` to receive messages from the `staff` channel.",    "color": 8331514,
+    "footer": {
+      "text": "Requested by {USER}"
+    }
+  }
+}
