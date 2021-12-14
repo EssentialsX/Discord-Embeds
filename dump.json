@@ -1,0 +1,29 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "Follow the steps below to provide us with enough information to help:",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX: taking a dump",
+      "url": "https://essentialsx.net/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "Please ensure you are using EssentialsX version 2.19.1 or later.",
+        "value": "You may download the latest builds [here](https://essentialsx.net/downloads.html)"
+      },
+      {
+        "name": "Run the dump command (in game)!",
+        "value": "`/ess dump all`"
+      },
+      {
+        "name": "Give the link!",
+        "value": "Paste the link here or DM <@397535955789283329> if you wish to make it private."
+      }
+    ]
+  }
+}
