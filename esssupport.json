@@ -37,16 +37,20 @@
         "value": "Lists all EssentialsX support commands."
       },
       {
-        "name": "!essc <query>",
-        "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `!essc home` shows all commands related to homes.*"
+        "name": "/essc <query>",
+        "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
       },
       {
-        "name": "!essp <query>",
-        "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `!essp nick` finds all permissions related to nicknames.*"
+        "name": "/essp <query>",
+        "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
       },
       {
-        "name": "!itemdb <query>",
-        "value": "Searches **items.json** with the given query.\n*Example: `!itemdb dolphin` finds all items matching \"dolphin\".*"
+        "name": "/itemdb <query>",
+        "value": "Searches **items.json** with the given query.\n*Example: `/itemdb dolphin` finds all items matching \"dolphin\".*"
+      },
+      {
+        "name": "/etl <query>",
+        "value": "Searches **messages.properties** with the given query.\n*Example: `/etl balancetop` finds all baltop messages.*"
       }
     ]
   }
