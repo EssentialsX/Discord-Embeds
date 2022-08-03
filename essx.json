@@ -2,7 +2,7 @@
   "embed": {
     "color": 15285048,
     "timestamp": "{TIMESTAMP_NOW}",
-    "description": "EssentialsX provides over 130 commands for Minecraft servers of any size and scale.",
+    "description": "EssentialsX provides over 150 commands for Minecraft servers of any size and scale.",
     "footer": {
       "text": "Requested by {USER}"
     },
@@ -14,7 +14,7 @@
     "fields": [
       {
         "name": "Downloads",
-        "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.18.1."
+        "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.19.1."
       },
       {
         "name": "Useful links",
