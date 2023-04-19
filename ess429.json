@@ -1,0 +1,21 @@
+{
+  "embed": {
+    "color": 15285048,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "description": "The 429 error code means **Discord is ratelimiting webhook mesages from your server**.\nThis usually happens when you're using a shared hosting service.\n\nYou should disable the console relay in the EssentialsX Discord config, restart your server and wait for the ratelimit to clear.",
+    "footer": {
+      "text": "Requested by {USER}"
+    },
+    "author": {
+      "name": "EssentialsX Discord: Seeing \"[WebhookClient] Encountered 429, retrying after 1000 ms\" errors?",
+      "url": "https://essentialsx.net/",
+      "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+    },
+    "fields": [
+      {
+        "name": "Why is this happening?",
+        "value": "Shared hosting services often have multiple Discord bots running from one host machine.\nDiscord will limit the amount of webhook messages coming from one IP address to prevent spam.\nThe console relay sends lots of messages to Discord, which may cause you (or your host machine) to get ratelimited."
+      }
+    ]
+  }
+}
