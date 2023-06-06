@@ -1,0 +1,86 @@
+{
+  "embeds": [
+    {
+      "color": 15285048,
+      "image": {
+        "url": "https://i.imgur.com/oejgzUS.png"
+      },
+      "fields": []
+    },
+    {
+      "description": "EssentialsX provides over 150 commands for Minecraft servers of any size and scale.",
+      "color": 15285048,
+      "author": {
+        "name": "EssentialsX",
+        "url": "https://essentialsx.net/",
+        "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+      },
+      "fields": [
+        {
+          "name": "Downloads",
+          "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.19.4."
+        },
+        {
+          "name": "Useful links",
+          "value": "• Wiki: <https://essentialsx.net/wiki/Home.html>\n• Source code: <https://github.com/EssentialsX/Essentials>\n• Commands list: <https://essinfo.xeya.me/commands.html>\n• Permissions list: <https://essinfo.xeya.me/permissions.html>"
+        }
+      ]
+    },
+    {
+      "description": "Chester has a few useful tags and commands you can run in the EssentialsX support channel:",
+      "color": 15285048,
+      "author": {
+        "name": "EssentialsX: support channel commands",
+        "icon_url": "https://avatars0.githubusercontent.com/u/34553309"
+      },
+      "fields": [
+        {
+          "name": "?ess",
+          "value": "Shows information about EssentialsX as well as useful links."
+        },
+        {
+          "name": "?breakdown",
+          "value": "Explains what each EssentialsX module does."
+        },
+        {
+          "name": "?esshelp",
+          "value": "Shows how to get support with EssentialsX."
+        },
+        {
+          "name": "?etl",
+          "value": "Explains how to change EssentialsX's default language and customise the messages files."
+        },
+        {
+          "name": "??chathelp",
+          "value": "Explains how to set up chat formatting with EssentialsX Chat and Vault."
+        },
+        {
+          "name": "?esssupport",
+          "value": "Lists all EssentialsX support commands."
+        },
+        {
+          "name": "/essc <query>",
+          "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
+        },
+        {
+          "name": "/essp <query>",
+          "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
+        },
+        {
+          "name": "/itemdb <query>",
+          "value": "Searches **items.json** with the given query.\n*Example: `/itemdb dolphin` finds all items matching \"dolphin\".*"
+        },
+        {
+          "name": "/etl <query>",
+          "value": "Searches **messages.properties** with the given query.\n*Example: `/etl balancetop` finds all baltop messages.*"
+        }
+      ]
+    },
+    {
+      "title": "How do I post in <#1019671726864478288>?",
+      "description": "You need the <@&706311134633918474> or <@&391029845225766912> roles to talk there.\nFor more info see https://discord.com/channels/390942438061113344/1028719038278414507",
+      "color": 15285048,
+      "fields": []
+    }
+  ]
+}
