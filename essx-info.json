@@ -18,7 +18,7 @@
       "fields": [
         {
           "name": "Downloads",
-          "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.19.4."
+          "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-1.20.1."
         },
         {
           "name": "Useful links",
@@ -51,7 +51,7 @@
           "value": "Explains how to change EssentialsX's default language and customise the messages files."
         },
         {
-          "name": "??chathelp",
+          "name": "?chathelp",
           "value": "Explains how to set up chat formatting with EssentialsX Chat and Vault."
         },
         {
