@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 471889062,
+      "description": "**Issues with your setup -**\nYou can easily spot issues in your setup by running `/ess version`. Make sure you are not running mismatched versions of your core jar, and any addons you use. \n\nMake sure you have:\n- [EssentialsX Chat](https://essentialsx.net/downloads.html)\n- [Vault](https://www.spigotmc.org/resources/34315/)\n- A Supported [Permission Manager](https://luckperms.net/download)\n\n**Issues with LuckPerms -**\nIf the Prefix or Suffix is not displayed correctly by running `/lp user <user> info`, it hasn't been properly set in LuckPerms. \n\n`/lp user <user> meta info` will give you more information on any prefixes/suffixes you may have. For further LuckPerms support, you may go to the [LuckPerms Discord](https://discord.gg/LuckPerms).",
+      "color": 14814252,
+      "footer": {
+        "text": "Requested by {USER}"
+      },
+      "fields": [],
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34553309?s=200",
+        "name": "Chat Information"
+      }
+    }
+  ],
+  "components": [],
+  "actions": {}
+}
