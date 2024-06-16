@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 471889062,
+      "description": "You can find information on developing plugins, using the EssentialsX API, including the Maven Repo, the Javadocs, and the EssentialsX Development server\n\n__Links__ 🔗\n- [Getting Started](https://essentialsx.net/wiki/Common-Issues.html#how-do-i-add-essentialsx-as-a-dependency)\n- [Javadocs](https://jd-v2.essentialsx.net/)\n- [EssentialsX Development Discord](https://discord.gg/CUN7qVb)\n- [Github](https://github.com/EssentialsX/Essentials)",
+      "color": 14814252,
+      "footer": {
+        "text": "Requested by {USER}"
+      },
+      "author": {
+        "name": "EssentialsX: Development Info",
+        "icon_url": "https://avatars.githubusercontent.com/u/34553309?s=200"
+      },
+      "fields": []
+    }
+  ],
+  "components": [],
+  "actions": {}
+}
