@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 82707118,
+      "description": "Discord **Requires** Message Content Intents to be enabled, for bots to read guild messages. You can enable the privileged intent by going to your bot application's page on the [Discord Developer Portal](https://discord.com/developers), then navigating to `Bot > Privileged Gateway Intents` and enabling `Message Content Intent`. Restart your server, and EssentialsX will be able to read messages from your guild. \n\nFor more information, see [this message](https://ptb.discord.com/channels/390942438061113344/426460619277991936/1015033747185356810)",
+      "fields": [],
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34553309?s=200",
+        "name": "Message Content Intent"
+      },
+      "footer": {
+        "text": "Requested by {USER}"
+      },
+      "color": 14814252
+    }
+  ],
+  "components": [],
+  "actions": {}
+}
