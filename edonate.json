@@ -1,0 +1,11 @@
+{
+  "embed": {
+    "color": 3319890,
+    "timestamp": "{TIMESTAMP_NOW}",
+    "title": "Donate",
+    "description": "EssentialsX is provided completely free-of-charge. If you'd like to support the EssentialsX project, you can make a recurring donation on [Patreon](https://www.patreon.com/essentialsx).\n\nIf you'd prefer to make a one-off donation, you can support us on [Ko-fi](https://ko-fi.com/essentialsx).\n\nIf you're not able to donate, we'd really appreciate if you could take the time to write a review on our [Spigot](https://www.spigotmc.org/resources/essentialsx.9089/) page, or give us a star on [GitHub](https://github.com/EssentialsX/Essentials). Every little helps!",
+    "footer": {
+      "text": "Requested by {USER}"
+    }
+  }
+}

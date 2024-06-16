@@ -1,0 +1,38 @@
+{
+  "embeds": [
+    {
+      "color": 5162567,
+      "description": "✅ **1.20.6** and **1.19.4** - Actively developed and supported versions\n⚠️ **1.8.8 → 1.18.2** - Still supported, but not a priority and may be dropped in a future release\n\nEssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software.",
+      "title": "Supported Minecraft Versions"
+    },
+    {
+      "color": 15285048,
+      "footer": {
+        "text": "We will not provide support for using any unsupported software or versions listed above."
+      },
+      "fields": [
+        {
+          "name": "ℹ️ Folia",
+          "value": "Folia is not supported yet. Do not attempt to use current versions of EssentialsX on Folia or forks of it - you may lose userdata.",
+          "inline": true
+        },
+        {
+          "name": "🛑 Forge/Bukkit hybrid servers (Mohist, Magma, Arclight, Cauldron, Thermos, CatServer, etc.)",
+          "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods).",
+          "inline": false
+        },
+        {
+          "name": "🛑 \"Ultra-performance\" Paper forks (Akarin, Yatopia, etc.)",
+          "value": "These often perform non-standard behavior and can break your worlds and installed plugins.",
+          "inline": false
+        },
+        {
+          "name": "🛑 1.7.10 or below",
+          "value": "Please don't use versions that were made <t:1403740800:R>",
+          "inline": false
+        }
+      ],
+      "title": "Unsupported Minecraft Versions"
+    }
+  ]
+}
