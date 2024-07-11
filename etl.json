@@ -18,6 +18,10 @@
       {
         "name": "Custom Messages",
         "value": "You can also customise EssentialsX's messages to your liking, from changing colours to editing nearly every message in the plugin. For more information, [click here](https://essentialsx.net/wiki/Locale.html#customising-messages)."
+      },
+      {
+        "name": "Locale Files",
+        "value": "You can find all available language files [here.](<https://github.com/EssentialsX/Essentials/tree/2.x/Essentials/src/main/resources>)"
       }
     ]
   }
