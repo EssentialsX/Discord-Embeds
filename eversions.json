@@ -2,7 +2,7 @@
   "embeds": [
     {
       "color": 5162567,
-      "description": "✅ **1.21**, **1.20.6**, and **1.19.4** - Actively developed and supported versions\n⚠️ **1.8.8 → 1.18.2** - Still supported, but not a priority and may be dropped in a future release\n\nEssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software.",
+      "description": "✅ **1.21.3**, **1.20.6**, and **1.19.4** - Actively developed and supported versions\n⚠️ **1.8.8 → 1.18.2** - Still supported, but not a priority and may be dropped in a future release\n\nEssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software.",
       "title": "Supported Minecraft Versions"
     },
     {
