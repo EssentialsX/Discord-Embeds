@@ -1,0 +1,27 @@
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 471889062,
+      "color": 14814252,
+      "footer": {
+        "text": "Requested by {USER}"
+      },
+      "author": {
+        "name": "EssentialsX: Converting Legacy Messages",
+        "icon_url": "https://avatars.githubusercontent.com/u/34553309?s=200"
+      },
+      "fields": [
+      {
+        "name": "Converting From 2.20.1 and Lower:",
+        "value": "1. Stop the server\n2. Delete all EssentialsX jars\n3. Add the new versions\n4. Start the server"
+      },
+      {
+        "name": "Converting After Updating:",
+        "value": "1. Stop the server\n2. Open `/plugins/Essentials/upgrades-done.yml`\n3. Change `updateLegacyToAdventure: true` to `false`\n4. Start the server\nYour message file should have been moved to the newly created `messages` directory and converted to MiniMessage. If for some reason it was not, ask for help."
+      }
+      ]
+    }
+  ]
+}
