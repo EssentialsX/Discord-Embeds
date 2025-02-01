@@ -14,16 +14,14 @@
       },
       "fields": [
       {
-        "name": "Converting Before Updating:",
-        "value": "1. Stop Server \n2. Delete all EssentialsX Jars \n3. Add new versions \n4. Start Server, and Profit"
+        "name": "Converting From 2.20.1 and Lower:",
+        "value": "1. Stop the server\n2. Delete all EssentialsX jars\n3. Add the new versions\n4. Start the server"
       },
       {
         "name": "Converting After Updating:",
-        "value": "1. Stop Server \n2. Locate, and Open `/plugins/Essentials/upgrades-done.yml` \n3.  Change `updateLegacyToAdventure: true` to `false`  \n4. Start Server, and Profit \nYour message file should have been moved to the newly created `/messages/` directory, and converted to MiniMessage. If for some reason it was not, ask for help."
+        "value": "1. Stop the server\n2. Open `/plugins/Essentials/upgrades-done.yml`\n3. Change `updateLegacyToAdventure: true` to `false`\n4. Start the server\nYour message file should have been moved to the newly created `messages` directory and converted to MiniMessage. If for some reason it was not, ask for help."
       }
       ]
     }
-  ],
-  "components": [],
-  "actions": {}
+  ]
 }
