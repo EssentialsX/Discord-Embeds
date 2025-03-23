@@ -2,7 +2,7 @@
   "embeds": [
     {
       "color": 5162567,
-      "description": "✅ **1.21.4** - Actively developed and supported version\n⚠️ **1.8.8 → 1.18.2** (latest minor versions only) - Still supported, but not a priority and may be dropped in a future release\n\n✅ EssentialsX officially supports the [**Paper**](https://papermc.io/) server software.\n⚠️ **Spigot** is still supported but is a low priority for us and may be dropped in a future release.",
+      "description": "✅ **1.21.4** - Actively developed and supported version\n⚠️ **1.8.8 → 1.20.6** (latest minor versions only) - Still supported, but not a priority and may be dropped in a future release\n\n✅ EssentialsX officially supports the [**Paper**](https://papermc.io/) server software.\n⚠️ **Spigot** is still supported but is a low priority for us and may be dropped in a future release.",
       "title": "Supported Minecraft Versions"
     },
     {
