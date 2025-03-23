@@ -2,7 +2,7 @@
   "embeds": [
     {
       "color": 5162567,
-      "description": "✅ **1.21.4**, **1.20.6**, and **1.19.4** - Actively developed and supported versions\n⚠️ **1.8.8 → 1.18.2** - Still supported, but not a priority and may be dropped in a future release\n\nEssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software.",
+      "description": "✅ **1.21.4** - Actively developed and supported version\n⚠️ **1.8.8 → 1.18.2** (latest minor versions only) - Still supported, but not a priority and may be dropped in a future release\n\n✅ EssentialsX officially supports the [**Paper**](https://papermc.io/) server software.\n⚠️ **Spigot** is still supported but is a low priority for us, and may be dropped in a future release.",
       "title": "Supported Minecraft Versions"
     },
     {
@@ -18,7 +18,7 @@
         },
         {
           "name": "🛑 Forge/Bukkit hybrid servers (Mohist, Magma, Arclight, Cauldron, Thermos, CatServer, etc.)",
-          "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods).",
+          "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor modded servers running Forge, NeoForge, or Fabric, you should use [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials).",
           "inline": false
         },
         {
