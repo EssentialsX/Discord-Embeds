@@ -38,11 +38,11 @@
       },
       {
         "name": "/essc <query>",
-        "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
+        "value": "Searches the [commands database](https://essentialsx.net/commands) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
       },
       {
         "name": "/essp <query>",
-        "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
+        "value": "Searches the [permissions database](https://essentialsx.net/permissions) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
       },
       {
         "name": "/itemdb <query>",

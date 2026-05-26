@@ -18,11 +18,11 @@
       "fields": [
         {
           "name": "Downloads",
-          "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads.html).\nCurrent dev builds support Minecraft versions 1.8.8-26.1.2."
+          "value": "You can download the latest dev builds [here](https://essentialsx.net/downloads).\nCurrent dev builds support Minecraft versions 1.8.8-26.1.2."
         },
         {
           "name": "Useful links",
-          "value": "• Wiki: <https://essentialsx.net/wiki/Home.html>\n• Source code: <https://github.com/EssentialsX/Essentials>\n• Commands list: <https://essinfo.xeya.me/commands.html>\n• Permissions list: <https://essinfo.xeya.me/permissions.html>"
+          "value": "• Wiki: <https://essentialsx.net/wiki/introduction>\n• Source code: <https://github.com/EssentialsX/Essentials>\n• Commands list: <https://essentialsx.net/commands>\n• Permissions list: <https://essentialsx.net/permissions>"
         }
       ]
     },
@@ -60,11 +60,11 @@
         },
         {
           "name": "/essc <query>",
-          "value": "Searches the [commands database](https://essinfo.xeya.me/commands.html) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
+          "value": "Searches the [commands database](https://essentialsx.net/commands) with the given search query.\n*Example: `/essc home` shows all commands related to homes.*"
         },
         {
           "name": "/essp <query>",
-          "value": "Searches the [permissions database](https://essinfo.xeya.me/permissions.html) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
+          "value": "Searches the [permissions database](https://essentialsx.net/permissions) with the given search query.\n*Example: `/essp nick` finds all permissions related to nicknames.*"
         },
         {
           "name": "/itemdb <query>",
